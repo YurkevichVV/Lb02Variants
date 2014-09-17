@@ -6,7 +6,7 @@ Variant 7
 Variant 8 Tkachenko
 Variant 9 Kozlova
 Variant 10
-Variant 11 Mikitskaya YurkevichM
+Variant 11 Mikitskaya YurkevichM YurkevichV
 Variant 12
 Variant 13
 Variant 14 Cheremisina
